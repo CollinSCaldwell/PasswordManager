@@ -1,6 +1,8 @@
 # PasswordManager
 Local password manager meant to replicate with very limited functionality those like LastPass with a master password
 
+IF YOU FORGOT THE MASTER PASSWORD, JUST DELETE THE TEXT IN THE PASSWORDS.TXT
+
 
 I was curious as to the various different cryptographic methods keeping us safe on the internet and beyond that are currently in use
 I learned the basics of some like Diffie-Hellman key exchange and RSA encryption while in a discrete mathematics course and thought it would be
